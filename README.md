@@ -1,0 +1,2 @@
+# Six_Axis_Industrial_Manipulators_Pose_Compensation_For_Cable_Assembly
+here put all file of the thesis
